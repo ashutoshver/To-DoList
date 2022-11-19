@@ -1,6 +1,6 @@
 @media(max-width:998px){
     html{
-        font-size: 55%;
+        font-size: 57%;
     }
     button{
       font-size: 8px;
@@ -12,14 +12,14 @@
         font-size: 45%;
     }
     button{
-      font-size: 8px;
+      font-size: 9px;
     }
 }
 
 
 #container{
   display: flex;
-  margin-top: 5rem;
+  margin-top: 6rem;
   margin-left: 2rem;
 }
 #container input{
