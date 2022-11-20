@@ -1,6 +1,6 @@
 document.querySelector("form").addEventListener("submit", todoList);
 
-function todoList() {
+function todoList(event) {
   event.preventDefault();
   if (document.querySelector("#cont1 input").value.length == 0) {
     alert("Input Empty");
